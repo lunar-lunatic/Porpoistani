@@ -44,15 +44,18 @@ Close - Kúya
 There - Kerey
 Far - Kéra
 Beyond - Kéri
+Away - Kuyati
 Place - Keru
 Thing - Epiya
 Normal - Epátu
 Special - Epiyó
 Person/Human - Agiya
+Foot - Eporayá
 Protector/Guardian - Agiyila
 Public - Agepo
 It - Epilo
 Is/Are - Mat
+Is/Being/State of - Matáya
 Am - Mató
 A/An - Mehe
 On/About - Melá
@@ -60,6 +63,7 @@ Consisting of / Made up of - Mupé
 Thanks - Naja
 Excuse me/Pardon - Niyare
 Sorry - Niyaj
+Pain - Matéyeki
 
 Example - Máyal
 
@@ -140,6 +144,8 @@ News - Ilata
 Broadcast - Ilatutí
 Result - Peqit
 Animal - Póy
+Bird - Páyor
+Ant - Pokiyí
 Zoo - Pókeruy
 Man - Mikor
 Woman - Mikora
@@ -168,19 +174,11 @@ Talk / Speak / Say - Sedo
 Ask - Sedu
 Request - Sedula
 Language - Sisedo
-Write - Yerado
-Know - Reta
-Walk - Iporay
-Come - Yutowa
-Going (to) - Nahapiqe
-Visit - Nahapaq
 Hotel - Nahaygawá
 Ahead / Forwards - Naháj
-Create/Make - Nahité
 Change - Hepoté
 Updated - Hepotéqe
 Creator/Maker - Nahitagiy
-Destroy - Neható
 Destroyer - Nehatagiy
 Replace - Nehaté
 Trash - Nehayúg
@@ -268,6 +266,7 @@ Security - Mayímaka
 Meeting - Sedag
 
 Land - Púna
+Puddle - Kápujiba
 Island - Pena
 Country - Sépur
 Province / District - Séka
@@ -289,6 +288,16 @@ Information - Erájo
 (To) Hang - Matekiti
 (To) Jump - Nahapá
 (To) Miss - Mekipéka
+(To) Struggle - Mikoka
+(To) Write - Yerado
+(To) Know - Reta
+(To) Walk - Iporay
+(To) Come - Yutowa
+(To) Go (to) - Nahapiqe
+(To) Visit - Nahapaq
+(To) Create/Make - Nahité
+(To) Destroy - Neható
+(To) Fly - Nahápa
 Board/Sign - Péy
 Reception (desk) - Epánélay
 
