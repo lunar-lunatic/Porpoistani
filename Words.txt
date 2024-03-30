@@ -157,6 +157,9 @@ Bear - Nóra
 Wolf - Nórewá
 Fox - Nóretál
 Horse - Nókeqa
+Pig - Nókori
+Horse - Nójaka
+Cow - Nóritupo
 
 Do/function - Itu
 Give - Ituta
