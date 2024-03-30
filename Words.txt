@@ -1,0 +1,391 @@
+Hello - Gí
+Bye - Pó
+
+==Persons==
+I/me - Ka
+You - Ta
+We/us - Ma
+He/She/They(1) - Ko
+They(2+) - Koma
+Everyone/Everybody - Keting
+People - Kotaya
+Member - Ikaye
+Group - Yetaje
+Invite - Yekuki
+Community - Igajey
+
+==Comparisons, Grammar, Places==
+=Smaller: Ka-
+=Bigger: Ko-
+All/Everything - Kopal
+Small - Katala
+Big - Kopila
+Much/Lots - Kori
+Few/Little - Kala
+Often/Frequent - Kohayí
+Rare/Infrequent - Kahayí
+Old - Hapa
+New - Hepo
+Next - Heja
+Previous - Hajo
+Long - Koyeli
+Short - Kayeli
+Before - Pija
+After - Peká
+Up - Pára
+Down - Lóra
+High - Pámar
+Low - Lómar
+Above - Pátama
+Under - Lótomo
+Time - Haye
+Here - Kuyat
+Close - Kúya
+There - Kerey
+Far - Kéra
+Beyond - Kéri
+Place - Keru
+Thing - Epiya
+Normal - Epátu
+Special - Epiyó
+Person/Human - Agiya
+Protector/Guardian - Agiyila
+Public - Agepo
+It - Epilo
+Is/Are - Mat
+Am - Mató
+A/An - Mehe
+On/About - Melá
+Consisting of / Made up of - Mupé
+Thanks - Naja
+Excuse me/Pardon - Niyare
+Sorry - Niyaj
+
+Example - Máyal
+
+Permanent - Koyehali
+Former - Kopá
+
+Good - Ratapa
+Bad - Mekilip
+Great - Ratagay
+Glory - Rata'gá
+Easy - Mogaj
+Hard - Wava
+Single - Yati
+Plural - Yeti
+Other - Yét
+Item - Yatiya
+List - Yetika
+Random - Kanas
+Neutral - Pegaya
+Weapon - Mikajáy
+Centre - Mayatiwa
+Central - Mayatik
+
+Right/Correct - Mira
+
+Start - Pela
+Allow - Pegajay
+Stop - Pekala
+
+The - Tapa
+And - Kipi
+For - Tala
+To - Ter
+Or - Puy
+Of / From - Netap
+If - Nara
+This - Láp
+That - Lop
+Now - Joka
+Yes - Ti
+No - Nó
+Not - Nóy
+In/At - Telá
+Also/Too/Including - Tóru
+But/However - Otó
+
+Nipula - True/Truth
+Nópula - False/Lie
+Valid - Nipuka
+
+Who - Nika
+What - Niyit
+Where - Nepoy
+Why - Nahar
+When - Notop
+How - Nag
+
+Lake - Kataji
+Ocean - Kopiji
+
+Name - Peso
+Is named/Is called - Pesa
+Food - Bevo
+Grape - Begolíra
+Drink - Beví
+Water - Jiba
+Word - Uwal
+Letter - Uway
+Sentence - Uwapat
+Conjugate - Heyuwapa
+Science - Pularre
+Known - Retagiy
+Knowledge - Retaga
+Answer - Jotagira
+Question - Kiretaso
+Library - Yéretago
+News - Ilata
+Broadcast - Ilatutí
+Result - Peqit
+Animal - Póy
+Zoo - Pókeruy
+Man - Mikor
+Woman - Mikora
+NB person - Mikoy
+
+Native - Keritój
+Polar Bear - Nanó
+Bear - Nóra
+Wolf - Nórewá
+Fox - Nóretál
+Horse - Nókeqa
+
+Do/function - Itu
+Give - Ituta
+Bring - Itutí
+Plan - Ituyu
+Operation (doing) - Nahapo
+Focus (on) - Nahatíra
+Proceed/Continue - Iporatí
+Paid debts (in any way) - Itupoli
+Want - Weru
+Work - Wara
+Eat - Yapa
+Sleep - Kebo
+Talk / Speak / Say - Sedo
+Ask - Sedu
+Request - Sedula
+Language - Sisedo
+Write - Yerado
+Know - Reta
+Walk - Iporay
+Come - Yutowa
+Going (to) - Nahapiqe
+Visit - Nahapaq
+Hotel - Nahaygawá
+Ahead / Forwards - Naháj
+Create/Make - Nahité
+Change - Hepoté
+Updated - Hepotéqe
+Creator/Maker - Nahitagiy
+Destroy - Neható
+Destroyer - Nehatagiy
+Replace - Nehaté
+Trash - Nehayúg
+Like - Pequt
+Can/Could - Pesaj
+Should - Pesoy
+Would - Pesolik
+Have/Has/Contains - Kéqur
+Get/Receive/Obtain - Kúraqi
+Keep - Kótir
+Possible - Pés
+Applicable/Fitting - Pórana
+Status - Sen
+Active - Nehok
+Inactive - Nehak
+
+Népé - Warning (Danger)
+
+Salre - Supportive Reaction
+Solre - Discouraging Reaction
+Agree - Sá
+Disagree - Só
+Response/Reaction - Ré
+Reason - Narila
+Because - Narilo
+Following / Accordingly to - Narij
+Again - Rój
+
+Project - Wadojá
+
+Urge - Yuta
+Anger - Itayar
+
+Building - Hulwert
+Room - Huwal
+Inside - Tehulwé
+House/Home - Aygawe
+Mine - Ajidó
+Centre (Building) - Aymaya
+
+Cafe - Bevíhul
+Station - Yalaríhul
+Rail - Yalarí
+Travel - Ríkatu
+Transport - Ríka
+
+Date - Dejí
+Day / Today - Dewal
+Tommorow - Dewalki
+Yesterday - Dewalaka
+The day after tommorow - Pekadewalki
+Week - Nedewal
+Month - Nijewal
+Year - Loniwal
+Monday - Yawal
+Tuesday - Yowal
+Wednesday - Yiwal
+Thursday - Yarawal
+Friday - Yanawal
+Saturday - Yakawal
+Sunday - Yalawal
+January - Januar
+February - Februar
+March - Marj
+April - April
+May - Meja
+June - Jún
+July - Júl
+Augustus - Aukust
+September - Septem
+October - Oktem
+November - Novem
+December - Decem
+
+God (of) - Mayha
+
+Iron - Teger
+Fire - Tefá
+Potion - Típale
+
+Protection / Resistance - Maykól
+Safety - Maymat
+Security - Mayímaka
+
+Meeting - Sedag
+
+Land - Púna
+Island - Pena
+Country - Sépur
+Province / District - Séka
+Capital - Yísep
+Metropolis - Yunse
+City - Yisok
+Town - Yisek
+Village - Púy
+Settlement - Égep
+Coordinates - Etajiy
+Border - Sépaka
+
+Claim / Claimed land - Púnamayil
+
+Information - Erájo
+(To) See - Erákoj
+(To) Appear/Seem - Érakojlop
+(To) Inform - Ekéra
+(To) Hang - Matekiti
+(To) Jump - Nahapá
+(To) Miss - Mekipéka
+Board/Sign - Péy
+Reception (desk) - Epánélay
+
+State - Doja
+Federation - Yetadoy
+Republic - Kosedoy
+Government - Doyata
+Legislature - Dókat
+Parliament - Doyar
+Ministry - Doyít
+Senate - Itudo
+Congress / Assembly - Ijador
+Vote/Delegate - Kosed*
+Election - Koseday
+Represent - Kotáse
+Representative - Kotased**
+Speaker - Doyasedo
+Motion - Doyulá
+Seat - Dojawe
+Sworn (in) - Kosiwa
+Archive - Sedayeh
+Document - Sedayora
+Format - Sídayo
+Charter - Sojakijí
+Constitution - Sojákal
+Repository - Yetayora
+Sign/Support - Doyálup
+Signer/Supporter - Doyálig
+Anthem - Dókanona
+Flag - Kokodá
+Constitutes/Enforces/Puts in place - Kiridolay
+Institution - Dóday
+
+War - Mikamo
+Military - Mikapiya
+Invasion - Mikatitu
+
+Free - Jakis
+Freedom - Jakiska
+
+Liberal - Nópjakiya
+
+Rule - Lakaroji
+Law - Ijalakorji
+Guideline - Lakaragay
+Treaty/Agreement - Lakase
+
+(web) Link - Link
+(chained) Link - Likáy
+
+Cosmos/Space - Kaltan
+Cosmodrome/Spaceport - Kaltanpugi
+
+One - Ya
+Two - Yo
+Three - Yi
+Four - Yara
+Five - Yana
+Six - Yaka
+Seven - Yala
+Eight - Yava
+Nine - Yawa
+Ten - Yade
+
+English - Englé
+French - Francé
+German - Deutsé
+Spanish - Espané
+
+Primary/First - Yaka
+Secondary/Second - Yoka
+Tritary/Third - Yika
+
+Sound - Kónula
+Music - Kanuli
+Song - Kano
+
+Light (color) - Riwi
+Dark - Woto
+Red - Wareko
+Green - Wipolo
+Yellow - Yetawo
+Blue - Weyeh
+Cyan - Weria
+Purple - Keweh
+Magenta - Kelok
+Pink - Panok
+Orange - Jarak
+White - Mihin
+Black - Woton
+
+*Kosed is derived from Kopal + Sedo
+**Kotased is derived from Kotaya + Sedo
+
+==Nature==
+Nature - Níopa
+Tree - Note
+Bush - Naté
+Farm - Tóripe
+
