@@ -307,7 +307,7 @@ Information - Erájo
 (To) Fly - Nahápa
 (To) Drop - Nahálo
 (To) Try - Agáteji
-(To) Bite - Mipómo
+(To) Bite/Sting - Mipómo
 (To) Attack - Migámo
 Board/Sign - Péy
 Reception (desk) - Epánélay
