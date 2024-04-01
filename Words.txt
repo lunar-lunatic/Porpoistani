@@ -34,7 +34,9 @@ Before - Pija
 After - Peká
 Up - Pára
 Down - Lóra
+Fall - Nalóra
 High - Pámar
+Rise - Napáma
 Low - Lómar
 Above - Pátama
 Under - Lótomo
@@ -42,6 +44,7 @@ Time - Haye
 Here - Kuyat
 Close - Kúya
 There - Kerey
+With/Using/(To) Use - Kúy
 Far - Kéra
 Beyond - Kéri
 Away - Kuyati
@@ -64,6 +67,7 @@ Thanks - Naja
 Excuse me/Pardon - Niyare
 Sorry - Niyaj
 Pain - Matéyeki
+Pity - Matéraj
 
 Example - Máyal
 
@@ -185,7 +189,7 @@ Creator/Maker - Nahitagiy
 Destroyer - Nehatagiy
 Replace - Nehaté
 Trash - Nehayúg
-Like - Pequt
+Like/As - Pequt
 Can/Could - Pesaj
 Should - Pesoy
 Would - Pesolik
@@ -301,6 +305,10 @@ Information - Erájo
 (To) Create/Make - Nahité
 (To) Destroy - Neható
 (To) Fly - Nahápa
+(To) Drop - Nahálo
+(To) Try - Agáteji
+(To) Bite - Mipómo
+(To) Attack - Migámo
 Board/Sign - Péy
 Reception (desk) - Epánélay
 
@@ -399,5 +407,7 @@ Black - Woton
 Nature - Níopa
 Tree - Note
 Bush - Naté
+Stick - Notá
+Stone - Póka
 Farm - Tóripe
 
