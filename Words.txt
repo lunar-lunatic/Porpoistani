@@ -25,6 +25,7 @@ Few/Little - Kala
 Often/Frequent - Kohayí
 Rare/Infrequent - Kahayí
 Old - Hapa
+Ancient - Hapako
 New - Hepo
 Next - Heja
 Previous - Hajo
@@ -41,6 +42,8 @@ Low - Lómar
 Above - Pátama
 Under - Lótomo
 Time - Haye
+History - Hapáma
+Tradition - Hapítu
 Here - Kuyat
 Close - Kúya
 There - Kerey
@@ -55,6 +58,7 @@ Special - Epiyó
 Person/Human - Agiya
 Foot - Eporayá
 Protector/Guardian - Agiyila
+Protection/Armor - Agiyára
 Public - Agepo
 It - Epilo
 Is/Are - Mat
@@ -153,17 +157,21 @@ Ant - Pokiyí
 Zoo - Pókeruy
 Man - Mikor
 Woman - Mikora
-NB person - Mikoy
+(Ungendered) Person - Mikoy
+Head - Agípa
+Body - Agí
 
 Native - Keritój
 Polar Bear - Nanó
 Bear - Nóra
+Dog - Nórewi
 Wolf - Nórewá
 Fox - Nóretál
 Horse - Nókeqa
 Pig - Nókori
 Horse - Nójaka
 Cow - Nóritupo
+Dragon - Kónope
 
 Do/function - Itu
 Give - Ituta
@@ -225,6 +233,7 @@ Inside - Tehulwé
 House/Home - Aygawe
 Mine - Ajidó
 Centre (Building) - Aymaya
+Museum - Erákeru
 
 Cafe - Bevíhul
 Station - Yalaríhul
@@ -273,6 +282,7 @@ Security - Mayímaka
 Meeting - Sedag
 
 Land - Púna
+Map - Púnoru
 Puddle - Kápujiba
 Island - Pena
 Country - Sépur
@@ -289,7 +299,8 @@ Border - Sépaka
 Claim / Claimed land - Púnamayil
 
 Information - Erájo
-(To) See - Erákoj
+(To) See/View - Erákoj
+(To) Show - Erákiru
 (To) Appear/Seem - Érakojlop
 (To) Inform - Ekéra
 (To) Hang - Matekiti
@@ -313,6 +324,7 @@ Board/Sign - Péy
 Reception (desk) - Epánélay
 
 State - Doja
+Union - Yetála
 Federation - Yetadoy
 Republic - Kosedoy
 Government - Doyata
