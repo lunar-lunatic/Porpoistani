@@ -2,9 +2,9 @@ Hello - Gí
 Bye - Pó
 
 ==Persons==
-I/me - Ka
+I/Me - Ka
 You - Ta
-We/us - Ma
+We/Us - Ma
 He/She/They(1) - Ko
 They(2+) - Koma
 Everyone/Everybody - Keting
