@@ -183,6 +183,7 @@ Focus (on) - Nahatíra
 Proceed/Continue - Iporatí
 Paid debts (in any way) - Itupoli
 Want - Weru
+Need - Weró
 Work - Wara
 Eat - Yapa
 Sleep - Kebo
