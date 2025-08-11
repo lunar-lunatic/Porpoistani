@@ -1,0 +1,10 @@
+East Porpoistan Metro: Híjuro-ka Porpoistan Metro
+-ka: direction adjective
+Porpoistan is a noun modifier in compound so no -ka (otherwise it'd be Porpoistani/Porpoistanish)
+
+I see my house
+Ka erákoj ka-to aygawe-la
+Ka -> I
+Erájok -> see
+Ka + -to -> my (I + possessive)
+Aygawe + -la -> house (house + accusative)

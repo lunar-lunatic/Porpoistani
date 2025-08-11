@@ -1,4 +1,4 @@
-Possesives end on -to
+Possesives end on -to (attached to the possessor)
 Accusative ends on -la
 Dative ends on -ri
 Locative ends on -miha

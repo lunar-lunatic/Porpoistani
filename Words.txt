@@ -13,6 +13,7 @@ Member - Ikaye
 Group - Yetaje
 Invite - Yekuki
 Community - Igajey
+====
 
 ==Comparisons, Places==
 =Smaller: Ka-
@@ -69,12 +70,13 @@ Excuse me/Pardon - Niyare
 Sorry - Niyaj
 Pain - Matéyeki
 Pity - Matéraj
+====
 
-Example - Máyal
 
 Permanent - Koyehali
 Former - Kopá
 
+Example - Máyal
 Good - Ratapa
 Bad - Mekilip
 Great - Ratagay
@@ -115,10 +117,6 @@ In/At - Telá
 Also/Too/Including - Tóru
 But/However - Otó
 
-Nipula - True/Truth
-Nópula - False/Lie
-Valid - Nipuka
-
 Who - Nika
 What - Niyit
 Where - Nepoy
@@ -126,9 +124,6 @@ Why - Nahar
 When - Notop
 Which - Nija
 How - Nag
-
-Lake - Kataji
-Ocean - Kopiji
 
 Name - Peso
 Is named/Is called - Pesa
@@ -159,19 +154,6 @@ Woman - Mikora
 Head - Agípa
 Body - Agí
 
-Native - Keritój
-Polar Bear - Nanó
-Bear - Nóra
-Dog - Nórewi
-Wolf - Nórewá
-Fox - Nóretál
-Cat - Múrawi
-Horse - Nókeqa
-Pig - Nókori
-Horse - Nójaka
-Cow - Nóritupo
-Dragon - Kónope
-
 Paid debts (in any way) - Itupoli
 Language - Sisedo
 Hotel - Nahaygawá
@@ -192,8 +174,10 @@ Status - Sen
 Active - Nehok
 Inactive - Nehak
 
-Népé - Warning (Danger)
-
+True/Truth - Nipula
+False/Lie - Nópula
+Valid - Nipuka
+Warning (Danger) - Népé
 Salre - Supportive Reaction
 Solre - Discouraging Reaction
 Response/Reaction - Ré
@@ -203,10 +187,6 @@ Following / Accordingly to - Narij
 Again - Rój
 
 Project - Wadojá
-
-Urge - Yuta
-Anger - Itayar
-
 Building - Hulwert
 Room - Huwal
 Inside - Tehulwé
@@ -214,7 +194,6 @@ House/Home - Aygawe
 Mine - Ajidó
 Centre (Building) - Aymaya
 Museum - Erákeru
-
 Cafe - Bevíhul
 Station - Yalaríhul
 Rail - Yalarí
@@ -332,7 +311,7 @@ Do/function - Itu
 (To) Censor - Dórajlop
 (To) Fall - Nalóra
 (To) Rise - Napáma
-
+====
 
 Censored - Dórajlopka
 Censorship - Dóyalopma
@@ -370,7 +349,13 @@ Anthem - Dókanona
 Flag - Kokodá
 Constitutes/Enforces/Puts in place - Kiridolay
 Institution - Dóday
+Liberal - Nópjakiya
 
+*Kosed is derived from Kopal + Sedo
+**Kotased is derived from Kotaya + Sedo
+
+Urge - Yuta
+Anger - Itayar
 War - Mikamo
 Military - Mikapiya
 Invasion - Mikatitu
@@ -381,7 +366,9 @@ Law - Ijalakorji
 Guideline - Lakaragay
 Treaty/Agreement - Lakase
 
-Liberal - Nópjakiya
+Sound - Kónula
+Music - Kanuli
+Song - Kano
 
 (web) Link - Link
 (chained) Link - Likáy
@@ -404,6 +391,7 @@ Ten - Yade
 Primary/First - Yaka
 Secondary/Second - Yoka
 Tritary/Third - Yika
+====
 
 (old: see special rules)
 English - Englé
@@ -411,10 +399,7 @@ French - Francé
 German - Deutsé
 Spanish - Espané
 
-Sound - Kónula
-Music - Kanuli
-Song - Kano
-
+==Colors==
 Light (color) - Riwi
 Dark - Woto
 Red - Wareko
@@ -428,9 +413,7 @@ Pink - Panok
 Orange - Jarak
 White - Mihin
 Black - Woton
-
-*Kosed is derived from Kopal + Sedo
-**Kotased is derived from Kotaya + Sedo
+====
 
 ==Nature==
 Nature - Níopa
@@ -439,4 +422,18 @@ Bush - Naté
 Stick - Notá
 Stone - Póka
 Farm - Tóripe
-
+Lake - Kataji
+Ocean - Kopiji
+Native - Keritój
+Polar Bear - Nanó
+Bear - Nóra
+Dog - Nórewi
+Wolf - Nórewá
+Fox - Nóretál
+Cat - Múrawi
+Horse - Nókeqa
+Pig - Nókori
+Horse - Nójaka
+Cow - Nóritupo
+Dragon - Kónope
+====
