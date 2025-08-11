@@ -186,6 +186,8 @@ Permanent - Koyehali
 Former - Kopá
 Project - Wadojá
 Building - Hulwert
+Door - Huyera
+Portal - Yokéra
 Room - Huwal
 Inside - Tehulwé
 House/Home - Aygawe
@@ -429,6 +431,7 @@ Field - Tóraja
 Valley - Taroje
 Lake - Kataji
 Ocean - Kopiji
+Peaks - Pókatár
 Native - Keritój
 Polar Bear - Nanó
 Bear - Nóra
