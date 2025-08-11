@@ -14,7 +14,7 @@ Group - Yetaje
 Invite - Yekuki
 Community - Igajey
 
-==Comparisons, Grammar, Places==
+==Comparisons, Places==
 =Smaller: Ka-
 =Bigger: Ko-
 All/Everything - Kopal
@@ -22,6 +22,7 @@ Small - Katala
 Big - Kopila
 Much/Lots - Kori
 Few/Little - Kala
+Some/A bit - Kali
 Often/Frequent - Kohayí
 Rare/Infrequent - Kahayí
 Old - Hapa
@@ -29,15 +30,14 @@ Ancient - Hapako
 New - Hepo
 Next - Heja
 Previous - Hajo
+Back - Hajomé
 Long - Koyeli
 Short - Kayeli
 Before - Pija
 After - Peká
 Up - Pára
 Down - Lóra
-Fall - Nalóra
 High - Pámar
-Rise - Napáma
 Low - Lómar
 Above - Pátama
 Under - Lótomo
@@ -61,9 +61,6 @@ Protector/Guardian - Agiyila
 Protection/Armor - Agiyára
 Public - Agepo
 It - Epilo
-Is/Are - Mat
-Is/Being/State of - Matáya
-Am - Mató
 A/An - Mehe
 On/About - Melá
 Consisting of / Made up of - Mupé
@@ -168,28 +165,14 @@ Bear - Nóra
 Dog - Nórewi
 Wolf - Nórewá
 Fox - Nóretál
+Cat - Múrawi
 Horse - Nókeqa
 Pig - Nókori
 Horse - Nójaka
 Cow - Nóritupo
 Dragon - Kónope
 
-Do/function - Itu
-Give - Ituta
-Bring - Itutí
-Plan - Ituyu
-Operation (doing) - Nahapo
-Focus (on) - Nahatíra
-Proceed/Continue - Iporatí
 Paid debts (in any way) - Itupoli
-Want - Weru
-Need - Weró
-Work - Wara
-Eat - Yapa
-Sleep - Kebo
-Talk / Speak / Say - Sedo
-Ask - Sedu
-Request - Sedula
 Language - Sisedo
 Hotel - Nahaygawá
 Ahead / Forwards - Naháj
@@ -197,15 +180,12 @@ Change - Hepoté
 Updated - Hepotéqe
 Creator/Maker - Nahitagiy
 Destroyer - Nehatagiy
-Replace - Nehaté
 Trash - Nehayúg
 Like/As - Pequt
 Can/Could - Pesaj
 Should - Pesoy
 Would - Pesolik
-Have/Has/Contains - Kéqur
-Get/Receive/Obtain - Kúraqi
-Keep - Kótir
+Content - Kéquri
 Possible - Pés
 Applicable/Fitting - Pórana
 Status - Sen
@@ -216,8 +196,6 @@ Népé - Warning (Danger)
 
 Salre - Supportive Reaction
 Solre - Discouraging Reaction
-Agree - Sá
-Disagree - Só
 Response/Reaction - Ré
 Reason - Narila
 Because - Narilo
@@ -280,6 +258,7 @@ Potion - Típale
 Protection / Resistance - Maykól
 Safety - Maymat
 Security - Mayímaka
+Caution - Itumay
 
 Meeting - Sedag
 
@@ -300,7 +279,33 @@ Border - Sépaka
 
 Claim / Claimed land - Púnamayil
 
+==Verbs==
 Information - Erájo
+Is/Are - Mat
+Is/Being/State of - Matáya
+Am - Mató
+Do/function - Itu
+(To) Give - Ituta
+(To) Bring - Itutí
+(To) Trigger - Itaríha
+(To) Plan - Ituyu
+(To) Operate/operation (doing) - Nahapo
+(To) Focus (on) - Nahatíra
+(To) Proceed/Continue - Iporatí
+(To) Want - Weru
+(To) Need - Weró
+(To) Work - Wara
+(To) Eat - Yapa
+(To) Sleep - Kebo
+(To) Talk / Speak / Say - Sedo
+(To) Ask - Sedu
+(To) Request - Sedula
+(To) Replace - Nehaté
+(To) Have/Has/Contains - Kéqur
+(To) Get/Receive/Obtain - Kúraqi
+(To) Keep - Kótir
+(To) Agree - Sá
+(To) Disagree - Só
 (To) See/View - Erákoj
 (To) Show - Erákiru
 (To) Appear/Seem - Érakojlop
@@ -313,7 +318,9 @@ Information - Erájo
 (To) Know - Reta
 (To) Walk - Iporay
 (To) Come - Yutowa
+(To) Experience - Matákahi
 (To) Go (to) - Nahapiqe
+(To) Return - Hajimó
 (To) Visit - Nahapaq
 (To) Create/Make - Nahité
 (To) Destroy - Neható
@@ -322,6 +329,13 @@ Information - Erájo
 (To) Try - Agáteji
 (To) Bite/Sting - Mipómo
 (To) Attack - Migámo
+(To) Censor - Dórajlop
+(To) Fall - Nalóra
+(To) Rise - Napáma
+
+
+Censored - Dórajlopka
+Censorship - Dóyalopma
 Board/Sign - Péy
 Reception (desk) - Epánélay
 
