@@ -243,27 +243,28 @@ April - April
 May - Meja
 June - Jún
 July - Júl
-Augustus - Aukust
+Augustus - August
 September - Septem
 October - Oktem
 November - Novem
 December - Decem
 
 God (of) - Mayha
-
 Iron - Teger
 Fire - Tefá
 Potion - Típale
-
 Protection / Resistance - Maykól
 Safety - Maymat
 Security - Mayímaka
 Caution - Itumay
 
-Meeting - Sedag
-
 Land - Púna
 Map - Púnoru
+Compass - Púnoti
+North - Ápuro
+South - Óluro
+East - Híjuro
+West - Jéjuro
 Puddle - Kápujiba
 Island - Pena
 Country - Sépur
@@ -276,7 +277,6 @@ Village - Púy
 Settlement - Égep
 Coordinates - Etajiy
 Border - Sépaka
-
 Claim / Claimed land - Púnamayil
 
 ==Verbs==
@@ -338,6 +338,7 @@ Censored - Dórajlopka
 Censorship - Dóyalopma
 Board/Sign - Péy
 Reception (desk) - Epánélay
+Meeting - Sedag
 
 State - Doja
 Union - Yetála
@@ -373,16 +374,14 @@ Institution - Dóday
 War - Mikamo
 Military - Mikapiya
 Invasion - Mikatitu
-
 Free - Jakis
 Freedom - Jakiska
-
-Liberal - Nópjakiya
-
 Rule - Lakaroji
 Law - Ijalakorji
 Guideline - Lakaragay
 Treaty/Agreement - Lakase
+
+Liberal - Nópjakiya
 
 (web) Link - Link
 (chained) Link - Likáy
@@ -390,6 +389,7 @@ Treaty/Agreement - Lakase
 Cosmos/Space - Kaltan
 Cosmodrome/Spaceport - Kaltanpugi
 
+==Numbers==
 One - Ya
 Two - Yo
 Three - Yi
@@ -401,14 +401,15 @@ Eight - Yava
 Nine - Yawa
 Ten - Yade
 
+Primary/First - Yaka
+Secondary/Second - Yoka
+Tritary/Third - Yika
+
+(old: see special rules)
 English - Englé
 French - Francé
 German - Deutsé
 Spanish - Espané
-
-Primary/First - Yaka
-Secondary/Second - Yoka
-Tritary/Third - Yika
 
 Sound - Kónula
 Music - Kanuli
