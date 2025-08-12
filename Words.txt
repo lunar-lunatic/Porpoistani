@@ -13,6 +13,8 @@ Member - Ikaye
 Group - Yetaje
 Invite - Yekuki
 Community - Igajey
+Own - Uta
+Share - Utó
 ====
 
 ==Comparisons, Places==
@@ -24,6 +26,7 @@ Big - Kopila
 Much/Lots - Kori
 Few/Little - Kala
 Some/A bit - Kali
+Most - Kokori
 Often/Frequent - Kohayí
 Rare/Infrequent - Kahayí
 Old - Hapa
@@ -43,6 +46,7 @@ High - Pámar
 Low - Lómar
 Above - Pátama
 Under - Lótomo
+Between - Lehima
 Time - Haye
 History - Hapáma
 Tradition - Hapítu
@@ -130,6 +134,7 @@ Conjugate - Heyuwapa
 Science - Pularre
 Known - Retagiy
 Knowledge - Retaga
+Understanding - Retika
 Answer - Jotagira
 Question - Kiretaso
 Library - Yéretago
@@ -174,8 +179,8 @@ True/Truth - Nipula
 False/Lie - Nópula
 Valid - Nipuka
 Warning (Danger) - Népé
-Salre - Supportive Reaction
-Solre - Discouraging Reaction
+Supportive Reaction - Salre
+Discouraging Reaction - Solre
 Response/Reaction - Ré
 Reason - Narila
 Because - Narilo
@@ -186,6 +191,9 @@ Permanent - Koyehali
 Former - Kopá
 Project - Wadojá
 Building - Hulwert
+Road - Hule
+Square - Huleyá
+Market - Huletojo
 Door - Huyera
 Portal - Yokéra
 Room - Huwal
@@ -243,6 +251,7 @@ Caution - Itumay
 
 Land - Púna
 Map - Púnoru
+Equatorial/Equator - Púwaya
 Compass - Púnoti
 North - Ápuro
 South - Óluro
@@ -361,6 +370,9 @@ Liberal - Nópjakiya
 Urge - Yuta
 Anger - Itayar
 War - Mikamo
+Strategy - Mikereta
+Powerful - Mihene
+Influental - Mihekone
 Military - Mikapiya
 Invasion - Mikatitu
 Free - Jakis
@@ -369,6 +381,7 @@ Rule - Lakaroji
 Law - Ijalakorji
 Guideline - Lakaragay
 Treaty/Agreement - Lakase
+Partnership - Lakasá
 
 Sound - Kónula
 Music - Kanuli
@@ -431,6 +444,7 @@ Field - Tóraja
 Valley - Taroje
 Lake - Kataji
 Ocean - Kopiji
+Hill - Nipata
 Peaks - Pókatár
 Native - Keritój
 Polar Bear - Nanó
