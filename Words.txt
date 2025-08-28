@@ -1,5 +1,6 @@
 Hello - Gí
 Bye - Pó
+Welcome - Gímaha
 
 ==Persons==
 I/Me - Ka
