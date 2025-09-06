@@ -143,6 +143,7 @@ News - Ilata
 Broadcast - Ilatutí
 Result - Peqit
 Animal - Póy
+Bone - Fíha
 Bird - Páyor
 Ant - Pokiyí
 Zoo - Pókeruy
@@ -194,6 +195,7 @@ Project - Wadojá
 Building - Hulwert
 Road - Hule
 Square - Huleyá
+Block - Huleha
 Market - Huletojo
 Door - Huyera
 Portal - Yokéra
