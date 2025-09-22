@@ -194,6 +194,7 @@ Former - Kopá
 Project - Wadojá
 Building - Hulwert
 Road - Hule
+Speed - Naha
 Square - Huleyá
 Block - Huleha
 Market - Huletojo
@@ -203,6 +204,7 @@ Room - Huwal
 Inside - Tehulwé
 House/Home - Aygawe
 Mine - Ajidó
+Pickaxe - Ajitu
 Centre (Building) - Aymaya
 Museum - Erákeru
 Cafe - Bevíhul
@@ -256,6 +258,8 @@ Land - Púna
 Map - Púnoru
 Equatorial/Equator - Púwaya
 Compass - Púnoti
+Right - Hí
+Left - Jé
 North - Ápuro
 South - Óluro
 East - Híjuro
@@ -276,6 +280,7 @@ Claim / Claimed land - Púnamayil
 
 ==Verbs==
 Information - Erájo
+Advice - Eríma
 Is/Are - Mat
 Is/Being/State of - Matáya
 Am - Mató
@@ -327,6 +332,8 @@ Do/function - Itu
 (To) Censor - Dórajlop
 (To) Fall - Nalóra
 (To) Rise - Napáma
+(To) Build/Construct - Hulrá
+(To) Drive - Huletu
 ====
 
 Censored - Dórajlopka
@@ -383,6 +390,7 @@ Freedom - Jakiska
 Rule - Lakaroji
 Law - Ijalakorji
 Guideline - Lakaragay
+Trade - Lakó
 Treaty/Agreement - Lakase
 Partnership - Lakasá
 
@@ -449,6 +457,7 @@ Lake - Kataji
 Ocean - Kopiji
 Hill - Nipata
 Peaks - Pókatár
+Scene - Tapo
 Native - Keritój
 Polar Bear - Nanó
 Bear - Nóra
