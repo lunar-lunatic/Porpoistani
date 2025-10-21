@@ -54,12 +54,16 @@ Tradition - Hapítu
 Here - Kuyat
 Close - Kúya
 There - Kerey
-With/Using/(To) Use - Kúy
+Tool - Kíya
+Distance/Length - Dé
 Far - Kéra
 Beyond - Kéri
 Away - Kuyati
 Place - Keru
+Storage - Keju
 Thing - Epiya
+General - Épika
+Drops/Loot - Epinaha
 Normal - Epátu
 Special - Epiyó
 Person/Human - Agiya
@@ -81,6 +85,8 @@ Pity - Matéraj
 Example - Máyal
 Good - Ratapa
 Bad - Mekilip
+Value - Rakat
+Valuable - Rakita
 Great - Ratagay
 Glory - Rata'gá
 Easy - Mogaj
@@ -128,6 +134,7 @@ Grape - Begolíra
 Drink - Beví
 Water - Jiba
 Ice - Juma
+Snow - Juni
 Word - Uwal
 Letter - Uway
 Sentence - Uwapat
@@ -255,9 +262,12 @@ Security - Mayímaka
 Caution - Itumay
 
 Land - Púna
+Earth/Dirt - Puni
 Map - Púnoru
 Equatorial/Equator - Púwaya
 Compass - Púnoti
+Magic - Miki
+Enchantment - Ratami
 Right - Hí
 Left - Jé
 North - Ápuro
@@ -284,10 +294,12 @@ Advice - Eríma
 Is/Are - Mat
 Is/Being/State of - Matáya
 Am - Mató
+With/Using/(To) Use - Kúy
 Do/function - Itu
 (To) Give - Ituta
 (To) Bring - Itutí
 (To) Trigger - Itaríha
+(To) Enchant - Tatami
 (To) Plan - Ituyu
 (To) Operate/operation (doing) - Nahapo
 (To) Focus (on) - Nahatíra
@@ -380,6 +392,7 @@ Liberal - Nópjakiya
 Urge - Yuta
 Anger - Itayar
 War - Mikamo
+Trial - Itami
 Strategy - Mikereta
 Powerful - Mihene
 Influental - Mihekone
@@ -446,6 +459,7 @@ Black - Woton
 ==Nature==
 Nature - Níopa
 Tree - Note
+Wood - Notuli
 Bush - Naté
 Stick - Notá
 Mushroom - Hotera
