@@ -150,6 +150,7 @@ News - Ilata
 Broadcast - Ilatutí
 Result - Peqit
 Animal - Póy
+Egg - Pí
 Bone - Fíha
 Bird - Páyor
 Ant - Pokiyí
@@ -255,6 +256,9 @@ December - Decem
 God (of) - Mayha
 Iron - Teger
 Fire - Tefá
+Heat - Té
+Furnace - Teleha
+Fuel - Tépi
 Potion - Típale
 Protection / Resistance - Maykól
 Safety - Maymat
@@ -297,7 +301,9 @@ Am - Mató
 With/Using/(To) Use - Kúy
 Do/function - Itu
 (To) Give - Ituta
+(To) Take - Ituka
 (To) Bring - Itutí
+(To) Sell - Morta
 (To) Trigger - Itaríha
 (To) Enchant - Tatami
 (To) Plan - Ituyu
@@ -346,6 +352,7 @@ Do/function - Itu
 (To) Rise - Napáma
 (To) Build/Construct - Hulrá
 (To) Drive - Huletu
+(To) Smelt - Teyu
 ====
 
 Censored - Dórajlopka
