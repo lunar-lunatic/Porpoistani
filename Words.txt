@@ -22,6 +22,7 @@ Share - Utó
 =Smaller: Ka-
 =Bigger: Ko-
 All/Everything - Kopal
+Half - Kopáhe
 Small - Katala
 Big - Kopila
 Much/Lots - Kori
@@ -160,6 +161,7 @@ Woman - Mikora
 (Ungendered) Person - Mikoy
 Head - Agípa
 Body - Agí
+Cancer - Metóki
 
 Paid debts (in any way) - Itupoli
 Language - Sisedo
@@ -201,6 +203,7 @@ Permanent - Koyehali
 Former - Kopá
 Project - Wadojá
 Building - Hulwert
+Glass/window - Huléra
 Road - Hule
 Speed - Naha
 Square - Huleyá
@@ -220,6 +223,7 @@ Station - Yalaríhul
 Rail - Yalarí
 Travel - Ríkatu
 Transport - Ríka
+Train - Ríkamato
 
 Date - Dejí
 Sun - Dél
@@ -267,6 +271,7 @@ Caution - Itumay
 
 Land - Púna
 Earth/Dirt - Puni
+Sand - Punsa
 Map - Púnoru
 Equatorial/Equator - Púwaya
 Compass - Púnoti
@@ -287,6 +292,7 @@ Metropolis - Yunse
 City - Yisok
 Town - Yisek
 Village - Púy
+Rural - Yipek
 Settlement - Égep
 Coordinates - Etajiy
 Border - Sépaka
@@ -303,6 +309,7 @@ Do/function - Itu
 (To) Give - Ituta
 (To) Take - Ituka
 (To) Bring - Itutí
+(To) Put - Itupé
 (To) Sell - Morta
 (To) Trigger - Itaríha
 (To) Enchant - Tatami
@@ -373,6 +380,7 @@ Senate - Itudo
 Congress / Assembly - Ijador
 Vote/Delegate - Kosed*
 Election - Koseday
+Party - Kadáy
 Represent - Kotáse
 Representative - Kotased**
 Speaker - Doyasedo
@@ -399,6 +407,7 @@ Liberal - Nópjakiya
 Urge - Yuta
 Anger - Itayar
 War - Mikamo
+Gunpowder - Mirapé
 Trial - Itami
 Strategy - Mikereta
 Powerful - Mihene
@@ -471,6 +480,7 @@ Bush - Naté
 Stick - Notá
 Mushroom - Hotera
 Stone - Póka
+Crystal - Pódel
 Farm - Tóripe
 Field - Tóraja
 Valley - Taroje
