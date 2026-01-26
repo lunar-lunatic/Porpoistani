@@ -16,6 +16,7 @@ Invite - Yekuki
 Community - Igajey
 Own - Uta
 Share - Utó
+Please - Ehe
 ====
 
 ==Comparisons, Places==
@@ -131,6 +132,7 @@ How - Nag
 Name - Peso
 Is named/Is called - Pesa
 Food - Bevo
+Carrot - Barono
 Grape - Begolíra
 Drink - Beví
 Water - Jiba
@@ -224,6 +226,9 @@ Rail - Yalarí
 Travel - Ríkatu
 Transport - Ríka
 Train - Ríkamato
+Boat - Ríkajiba
+Service station - Ríkalig
+Firework - Tefá-notá
 
 Date - Dejí
 Sun - Dél
@@ -286,6 +291,7 @@ West - Jéjuro
 Puddle - Kápujiba
 Island - Pena
 Country - Sépur
+Territory - Séha
 Province / District - Séka
 Capital - Yísep
 Metropolis - Yunse
@@ -345,6 +351,7 @@ Do/function - Itu
 (To) Come - Yutowa
 (To) Experience - Matákahi
 (To) Go (to) - Nahapiqe
+(To) Leave - Nahapiqo
 (To) Return - Hajimó
 (To) Visit - Nahapaq
 (To) Create/Make - Nahité
@@ -360,6 +367,8 @@ Do/function - Itu
 (To) Build/Construct - Hulrá
 (To) Drive - Huletu
 (To) Smelt - Teyu
+(To) Control - Séhata
+(To) Cook - Teya
 ====
 
 Censored - Dórajlopka
@@ -399,6 +408,7 @@ Anthem - Dókanona
 Flag - Kokodá
 Constitutes/Enforces/Puts in place - Kiridolay
 Institution - Dóday
+Embassy - Sepúkot
 Liberal - Nópjakiya
 
 *Kosed is derived from Kopal + Sedo
@@ -407,6 +417,7 @@ Liberal - Nópjakiya
 Urge - Yuta
 Anger - Itayar
 War - Mikamo
+Arena - Mikahul
 Gunpowder - Mirapé
 Trial - Itami
 Strategy - Mikereta
@@ -420,6 +431,7 @@ Rule - Lakaroji
 Law - Ijalakorji
 Guideline - Lakaragay
 Trade - Lakó
+Store/Shop - Lakóya
 Treaty/Agreement - Lakase
 Partnership - Lakasá
 
@@ -457,6 +469,7 @@ German - Deutsé
 Spanish - Espané
 
 ==Colors==
+Dye - Ria
 Light (color) - Riwi
 Dark - Woto
 Red - Wareko
@@ -475,11 +488,15 @@ Black - Woton
 ==Nature==
 Nature - Níopa
 Tree - Note
+Book - Motema
 Wood - Notuli
 Bush - Naté
+Plant - Naho
 Stick - Notá
 Mushroom - Hotera
 Stone - Póka
+Gold - Pórita
+Quartz - Póhe
 Crystal - Pódel
 Farm - Tóripe
 Field - Tóraja
@@ -491,6 +508,7 @@ Peaks - Pókatár
 Scene - Tapo
 Native - Keritój
 Polar Bear - Nanó
+Cod - Kopina
 Bear - Nóra
 Dog - Nórewi
 Wolf - Nórewá
