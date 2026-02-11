@@ -114,10 +114,12 @@ If - Nara
 This - Láp
 That - Lop
 Now - Joka
+Urgent - Mayoka
 Yes - Ti
 No - Nó
 Not - Nóy
 In/At - Telá
+To/Toward - Teké
 Also/Too/Including - Tóru
 But/However - Otó
 
@@ -291,6 +293,9 @@ West - Jéjuro
 Puddle - Kápujiba
 Island - Pena
 Country - Sépur
+Nation - Sétaya
+National - Sétoya
+International - Sékeya
 Territory - Séha
 Province / District - Séka
 Capital - Yísep
@@ -309,6 +314,7 @@ Information - Erájo
 Advice - Eríma
 Is/Are - Mat
 Is/Being/State of - Matáya
+Happen/Occur - Mapayat
 Am - Mató
 With/Using/(To) Use - Kúy
 Do/function - Itu
@@ -338,6 +344,7 @@ Do/function - Itu
 (To) Agree - Sá
 (To) Disagree - Só
 (To) See/View - Erákoj
+(To) Read - Seráka
 (To) Show - Erákiru
 (To) Appear/Seem - Érakojlop
 (To) Inform - Ekéra
@@ -346,7 +353,9 @@ Do/function - Itu
 (To) Miss - Mekipéka
 (To) Struggle - Mikoka
 (To) Write - Yerado
+(To) Message - Yerija
 (To) Know - Reta
+(To) Stand - Ipoyat
 (To) Walk - Iporay
 (To) Come - Yutowa
 (To) Experience - Matákahi
@@ -369,6 +378,7 @@ Do/function - Itu
 (To) Smelt - Teyu
 (To) Control - Séhata
 (To) Cook - Teya
+(To) Teach - Kulpa
 ====
 
 Censored - Dórajlopka
@@ -392,6 +402,7 @@ Election - Koseday
 Party - Kadáy
 Represent - Kotáse
 Representative - Kotased**
+Ambassador/State Representative - Dojedo
 Speaker - Doyasedo
 Motion - Doyulá
 Seat - Dojawe
@@ -401,6 +412,7 @@ Document - Sedayora
 Format - Sídayo
 Charter - Sojakijí
 Constitution - Sojákal
+Affairs - Epiteya
 Repository - Yetayora
 Sign/Support - Doyálup
 Signer/Supporter - Doyálig
@@ -413,6 +425,7 @@ Liberal - Nópjakiya
 
 *Kosed is derived from Kopal + Sedo
 **Kotased is derived from Kotaya + Sedo
+***Dojedo is derived from Doja + Sedo
 
 Urge - Yuta
 Anger - Itayar
@@ -432,6 +445,10 @@ Law - Ijalakorji
 Guideline - Lakaragay
 Trade - Lakó
 Store/Shop - Lakóya
+Economy - Ihima
+Money/Currency - Ihikóya
+Bank - Ihihul
+Exchange - Ihilakó
 Treaty/Agreement - Lakase
 Partnership - Lakasá
 
@@ -495,6 +512,7 @@ Plant - Naho
 Stick - Notá
 Mushroom - Hotera
 Stone - Póka
+Diamond - Pókita
 Gold - Pórita
 Quartz - Póhe
 Crystal - Pódel
