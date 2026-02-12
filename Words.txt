@@ -27,7 +27,9 @@ Half - Kopáhe
 Small - Katala
 Big - Kopila
 Much/Lots - Kori
+More - Korit
 Few/Little - Kala
+Less - Kalita
 Some/A bit - Kali
 Most - Kokori
 Often/Frequent - Kohayí
@@ -319,7 +321,9 @@ Am - Mató
 With/Using/(To) Use - Kúy
 Do/function - Itu
 (To) Give - Ituta
+(To) Send - Iteyata
 (To) Take - Ituka
+(To) Receive - Iteyaka
 (To) Bring - Itutí
 (To) Put - Itupé
 (To) Sell - Morta
@@ -532,9 +536,8 @@ Dog - Nórewi
 Wolf - Nórewá
 Fox - Nóretál
 Cat - Múrawi
-Horse - Nókeqa
+Horse - Nókeqa/Nójaka
 Pig - Nókori
-Horse - Nójaka
 Cow - Nóritupo
 Dragon - Kónope
 ====
