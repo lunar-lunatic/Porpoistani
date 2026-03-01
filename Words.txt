@@ -14,9 +14,12 @@ Member - Ikaye
 Group - Yetaje
 Invite - Yekuki
 Community - Igajey
+Together - Utóye
 Own - Uta
 Share - Utó
 Please - Ehe
+Connection - Yút
+Same - Aht
 ====
 
 ==Comparisons, Places==
@@ -137,6 +140,7 @@ Name - Peso
 Is named/Is called - Pesa
 Food - Bevo
 Carrot - Barono
+Melon - Bahul
 Grape - Begolíra
 Drink - Beví
 Water - Jiba
@@ -219,6 +223,7 @@ Door - Huyera
 Portal - Yokéra
 Room - Huwal
 Inside - Tehulwé
+(To the) Side - Néwe
 House/Home - Aygawe
 Mine - Ajidó
 Pickaxe - Ajitu
@@ -283,6 +288,7 @@ Earth/Dirt - Puni
 Sand - Punsa
 Map - Púnoru
 Equatorial/Equator - Púwaya
+Parallel - Pogayaja
 Compass - Púnoti
 Magic - Miki
 Enchantment - Ratami
@@ -326,6 +332,8 @@ Do/function - Itu
 (To) Receive - Iteyaka
 (To) Bring - Itutí
 (To) Put - Itupé
+(To) Save - Maymítu
+(To) Load - Ituporat
 (To) Sell - Morta
 (To) Trigger - Itaríha
 (To) Enchant - Tatami
@@ -352,6 +360,7 @@ Do/function - Itu
 (To) Show - Erákiru
 (To) Appear/Seem - Érakojlop
 (To) Inform - Ekéra
+(To) Acknowledge/Recognise - Erájoká
 (To) Hang - Matekiti
 (To) Jump - Nahapá
 (To) Miss - Mekipéka
@@ -478,7 +487,7 @@ Eight - Yava
 Nine - Yawa
 Ten - Yade
 
-Primary/First - Yaka
+Primary/First - Yanka
 Secondary/Second - Yoka
 Tritary/Third - Yika
 ====
@@ -522,9 +531,13 @@ Quartz - Póhe
 Crystal - Pódel
 Farm - Tóripe
 Field - Tóraja
+Plains - Kotópaja
+River - Jitó
 Valley - Taroje
 Lake - Kataji
 Ocean - Kopiji
+Beach - Kopópuja
+Desert - Kotópaja
 Hill - Nipata
 Peaks - Pókatár
 Scene - Tapo
