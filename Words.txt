@@ -488,8 +488,8 @@ Nine - Yawa
 Ten - Yade
 
 Primary/First - Yanka
-Secondary/Second - Yoka
-Tritary/Third - Yika
+Secondary/Second - Yonka
+Tritary/Third - Yinka
 ====
 
 (old: see special rules)
