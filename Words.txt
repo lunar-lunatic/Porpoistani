@@ -26,6 +26,8 @@ Same - Aht
 =Smaller: Ka-
 =Bigger: Ko-
 All/Everything - Kopal
+Part - Nahale
+Recipe - Nitule
 Half - Kopáhe
 Small - Katala
 Big - Kopila
@@ -285,6 +287,7 @@ Safety - Maymat
 Security - Mayímaka
 Caution - Itumay
 Purpose - Epaha
+Funny - Ratsa
 
 Land - Púna
 Earth/Dirt - Puni
@@ -403,6 +406,7 @@ Censorship - Dóyalopma
 Board/Sign - Péy
 Reception (desk) - Epánélay
 Meeting - Sedag
+Paper - Seda
 
 State - Doja
 Union - Yetála
