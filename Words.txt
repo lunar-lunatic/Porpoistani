@@ -115,10 +115,12 @@ For - Tala
 To - Ter
 Or - Puy
 Of / From - Netap
+By - Netag
 If - Nara
 This - Láp
 That - Lop
 Now - Joka
+Current - Epoja
 Urgent - Mayoka
 Yes - Ti
 No - Nó
@@ -282,6 +284,7 @@ Protection / Resistance - Maykól
 Safety - Maymat
 Security - Mayímaka
 Caution - Itumay
+Purpose - Epaha
 
 Land - Púna
 Earth/Dirt - Puni
@@ -322,6 +325,7 @@ Information - Erájo
 Advice - Eríma
 Is/Are - Mat
 Is/Being/State of - Matáya
+Situation - Máy
 Happen/Occur - Mapayat
 Am - Mató
 With/Using/(To) Use - Kúy
