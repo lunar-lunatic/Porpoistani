@@ -310,6 +310,7 @@ Country - Sépur
 Nation - Sétaya
 National - Sétoya
 International - Sékeya
+Foreign - Sékeyakí
 Territory - Séha
 Province / District - Séka
 Capital - Yísep
@@ -541,6 +542,7 @@ Farm - Tóripe
 Field - Tóraja
 Plains - Kotópaja
 River - Jitó
+Forest - Noteto
 Valley - Taroje
 Lake - Kataji
 Ocean - Kopiji
@@ -552,6 +554,7 @@ Scene - Tapo
 Native - Keritój
 Polar Bear - Nanó
 Cod - Kopina
+Squid - Konana
 Bear - Nóra
 Dog - Nórewi
 Wolf - Nórewá
