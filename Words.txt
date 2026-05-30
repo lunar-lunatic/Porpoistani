@@ -14,12 +14,15 @@ Member - Ikaye
 Group - Yetaje
 Invite - Yekuki
 Community - Igajey
+Leader - Igadó
+Council - Igutó
 Together - Utóye
 Own - Uta
 Share - Utó
 Please - Ehe
 Connection - Yút
-Same - Aht
+Network/System - Yekoyút
+Same - Ahat
 ====
 
 ==Comparisons, Places==
@@ -27,6 +30,8 @@ Same - Aht
 =Bigger: Ko-
 All/Everything - Kopal
 Part - Nahale
+Section - Nahagiya
+No/None - Ipal
 Recipe - Nitule
 Half - Kopáhe
 Small - Katala
@@ -39,6 +44,7 @@ Some/A bit - Kali
 Most - Kokori
 Often/Frequent - Kohayí
 Rare/Infrequent - Kahayí
+Original - Ha
 Old - Hapa
 Ancient - Hapako
 New - Hepo
@@ -57,7 +63,11 @@ Low - Lómar
 Above - Pátama
 Under - Lótomo
 Between - Lehima
+Beside/Next to - Lehejama
+Of/Relative to - Le
 Time - Haye
+Always - Kohal
+Never - Kahal
 History - Hapáma
 Tradition - Hapítu
 Here - Kuyat
@@ -68,13 +78,17 @@ Distance/Length - Dé
 Far - Kéra
 Beyond - Kéri
 Away - Kuyati
-Place - Keru
+Place/Location/Site/Area - Keru
 Storage - Keju
 Thing - Epiya
+Entity - Epixa
 General - Épika
 Drops/Loot - Epinaha
 Normal - Epátu
+Standard - Epátuya
+Detail - Epaya
 Special - Epiyó
+Priority - Epikóya
 Person/Human - Agiya
 Foot - Eporayá
 Protector/Guardian - Agiyila
@@ -102,6 +116,7 @@ Easy - Mogaj
 Hard - Wava
 Single - Yati
 Plural - Yeti
+Main - Yot
 Other - Yét
 Item - Yatiya
 List - Yetika
@@ -151,9 +166,11 @@ Water - Jiba
 Ice - Juma
 Snow - Juni
 Word - Uwal
+Synonym - Uhat
 Letter - Uway
 Sentence - Uwapat
 Conjugate - Heyuwapa
+Abbreviation - Kawali
 Science - Pularre
 Known - Retagiy
 Knowledge - Retaga
@@ -183,11 +200,14 @@ Hotel - Nahaygawá
 Ahead / Forwards - Naháj
 Change - Hepoté
 Updated - Hepotéqe
+Version - Hepojo
 Creator/Maker - Nahitagiy
+Creation/Foundation - Nahitegil
 Destroyer - Nehatagiy
 Trash - Nehayúg
 Like/As - Pequt
 Can/Could - Pesaj
+May - Pesoj
 Should - Pesoy
 Would - Pesolik
 Content - Kéquri
@@ -287,15 +307,20 @@ Safety - Maymat
 Security - Mayímaka
 Caution - Itumay
 Purpose - Epaha
+Fun - Tama
 Funny - Ratsa
+Party/Celebration - Tamutoye
 
+World - Pútiya
 Land - Púna
 Earth/Dirt - Puni
 Sand - Punsa
+Geography - Gúpiya
 Map - Púnoru
 Equatorial/Equator - Púwaya
 Parallel - Pogayaja
 Compass - Púnoti
+Navigation - Púnitu
 Magic - Miki
 Enchantment - Ratami
 Right - Hí
@@ -307,7 +332,11 @@ West - Jéjuro
 Puddle - Kápujiba
 Island - Pena
 Country - Sépur
+Continent - Penugú
+Citizen - Agisé
 Nation - Sétaya
+Culture - Sétatu
+Heritage - Séhatat
 National - Sétoya
 International - Sékeya
 Foreign - Sékeyakí
@@ -337,6 +366,7 @@ Do/function - Itu
 (To) Give - Ituta
 (To) Send - Iteyata
 (To) Take - Ituka
+(To) Purchase - Ihita
 (To) Receive - Iteyaka
 (To) Bring - Itutí
 (To) Put - Itupé
@@ -354,6 +384,8 @@ Do/function - Itu
 (To) Work - Wara
 (To) Eat - Yapa
 (To) Sleep - Kebo
+(To) Help/Support - Xi
+(To) Supplement - Sedaxi
 (To) Talk / Speak / Say - Sedo
 (To) Ask - Sedu
 (To) Request - Sedula
@@ -367,13 +399,23 @@ Do/function - Itu
 (To) Read - Seráka
 (To) Show - Erákiru
 (To) Appear/Seem - Érakojlop
+(To) Search - Érakula
+(To) Find - Érakolo
 (To) Inform - Ekéra
+(To) Refer - Eréju
+(To) Derive - Eréku
+(To) Interpret - Erélak
+(To) Divide/Split - Erénaha
+(To) Mean - Eréliok
+(To) Translate - Siserék
 (To) Acknowledge/Recognise - Erájoká
+(To) Specify - Erákakatu
 (To) Hang - Matekiti
 (To) Jump - Nahapá
 (To) Miss - Mekipéka
 (To) Struggle - Mikoka
 (To) Write - Yerado
+(To) Document - Yesedo
 (To) Message - Yerija
 (To) Know - Reta
 (To) Stand - Ipoyat
@@ -385,6 +427,7 @@ Do/function - Itu
 (To) Return - Hajimó
 (To) Visit - Nahapaq
 (To) Create/Make - Nahité
+(To) Bind - Pájal
 (To) Destroy - Neható
 (To) Fly - Nahápa
 (To) Drop - Nahálo
@@ -409,10 +452,15 @@ Reception (desk) - Epánélay
 Meeting - Sedag
 Paper - Seda
 
+Administration - Yesedala
+Secretary - Yesedaliya
+
 State - Doja
 Union - Yetála
 Federation - Yetadoy
 Republic - Kosedoy
+Authority - Dopiy
+Official - Dopéku
 Government - Doyata
 Legislature - Dókat
 Parliament - Doyar
@@ -431,6 +479,8 @@ Seat - Dojawe
 Sworn (in) - Kosiwa
 Archive - Sedayeh
 Document - Sedayora
+Picture - Sekojiy
+Icon - Sákoj
 Format - Sídayo
 Charter - Sojakijí
 Constitution - Sojákal
@@ -440,6 +490,7 @@ Sign/Support - Doyálup
 Signer/Supporter - Doyálig
 Anthem - Dókanona
 Flag - Kokodá
+Banner - Kokodé
 Constitutes/Enforces/Puts in place - Kiridolay
 Institution - Dóday
 Embassy - Sepúkot
@@ -463,12 +514,17 @@ Invasion - Mikatitu
 Free - Jakis
 Freedom - Jakiska
 Rule - Lakaroji
+Regulation - Dólakarji
 Law - Ijalakorji
+Decree/ruling/provision - Sedólak
+Legal - Ijal
+Court/Courthouse - Ijalhul
 Guideline - Lakaragay
 Trade - Lakó
 Store/Shop - Lakóya
 Economy - Ihima
 Money/Currency - Ihikóya
+Payment - Ihitay
 Bank - Ihihul
 Exchange - Ihilakó
 Treaty/Agreement - Lakase
